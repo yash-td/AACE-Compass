@@ -1,0 +1,7 @@
+# Default Streamlit configuration
+[server]
+enableCORS = true
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
